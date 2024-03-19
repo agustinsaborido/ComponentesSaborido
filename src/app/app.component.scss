@@ -1,0 +1,33 @@
+// p{
+//     color: blue;
+// }
+
+.grid-wrapper{
+    height:100vh;
+    background-color: white;
+    position: relative;
+}
+
+.toolbar-container{
+    height: 60px;
+    background-color: black;
+}
+
+.sidenav-container{
+    height: 100vh;
+    background-color: #beaf87;
+    width: 200px;
+    position: absolute;
+    top: 60px;
+    left: 0;
+
+}
+
+.page-wrapper{
+    padding-left: 200px;
+    
+}
+
+
+
+
